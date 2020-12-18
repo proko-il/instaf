@@ -1,0 +1,535 @@
+@keyframes proko{
+	0%{opacity: 100%; left: 14px;}
+
+	100%{opacity:100%;left: 47px;}
+}
+
+@keyframes prokoo{
+	0%{opacity: 100%; top: 58px;}
+
+	100%{opacity:100%;top: 183.5px;}
+}
+
+@keyframes prokooo{
+	0%{opacity: 100%; left: 401px;}
+
+	100%{opacity:100%;left: 353px;}
+}
+
+@keyframes prokoooo{
+	0%{opacity: 100%; top: 560px;}
+
+	100%{opacity:100%;top: 500px;}
+}
+
+@keyframes prokooooo{
+	0%{opacity: 100%; top: 0px;  }
+
+	30%{opacity: 100%; top: 300px; left:1200px;}
+
+	70%{opacity: 100%; top: 600px; left:1100px;}
+
+	100%{opacity:100%;top: 1000px;}
+}
+
+.insta{
+	position: absolute;
+	top: -40px;
+	left: 340px;
+	z-index: 9;
+}
+
+.b1{
+	position: absolute;
+	top: 150px;
+	left: -35px;
+	z-index: 8;
+}
+
+.b2{
+	position: absolute;
+	top: 150px;
+	left: 118px;
+	z-index: 8;
+}
+
+.b22{
+	position: absolute;
+	top: 3px;
+	left: 420px;
+	z-index: 8;
+}
+
+.b3{
+	position: absolute;
+	top: 150px;
+	left: 477px;
+	z-index: 8;
+}
+
+.b4{
+	position: absolute;
+	top: 550px;
+	left: -35px;
+	z-index: 8;
+}
+
+.b5{
+	position: absolute;
+	top: 550px;
+	left: 118px;
+	z-index: 8;
+}
+
+.b6{
+	position: absolute;
+	top: 550px;
+	left: 477px;
+	z-index: 8;
+}
+
+.b7{
+	position: absolute;
+	top: 463.5px;
+	left: 420px;
+	z-index: 8;
+}
+
+.b8{
+	position: absolute;
+	top: 463.5px;
+	left: 50px;
+	z-index: 8;
+}
+
+.b9{
+	position: absolute;
+	top: 463.5px;
+	left: 750px;
+	z-index: 8;
+}
+
+.b10{
+	position: absolute;
+	top: 63px;
+	left: 750px;
+	z-index: 8;
+}
+
+.b11{
+	position: absolute;
+	top: 63px;
+	left: 50px;
+	z-index: 8;
+}
+
+.b12{
+	position: absolute;
+	top: 63px;
+	left: 420px;
+	z-index: 8;
+}
+
+.b13{
+	position: absolute;
+	top: 865px;
+	left: 750px;
+	z-index: 8;
+}
+
+.b14{
+	position: absolute;
+	top: 865px;
+	left: 50px;
+	z-index: 8;
+}
+
+.b15{
+	position: absolute;
+	top: 865px;
+	left: 420px;
+	z-index: 8;
+}
+
+.b16{
+	position: absolute;
+	top: 150px;
+	left: 841px;
+	z-index: 8;
+}
+
+.b17{
+	position: absolute;
+	top: 450px;
+	left: 841px;
+	z-index: 8;
+}
+
+.l1{
+	position: absolute;
+	top: 150px;
+	left: 40px;
+	z-index: 9;
+}
+
+.l2{
+	position: absolute;
+	top: 150px;
+	left: 400px;
+	z-index: 9;
+}
+
+.l3{
+	position: absolute;
+	top: 150px;
+	left: 763px;
+	z-index: 9;
+}
+
+.l4{
+	position: absolute;
+	top: 550px;
+	left: 40px;
+	z-index: 9;
+}
+
+.l5{
+	position: absolute;
+	top: 550px;
+	left: 400px;
+	z-index: 9;
+}
+
+.l6{
+	position: absolute;
+	top: 550px;
+	left: 763px;
+	z-index: 9;
+}
+
+.l7{
+	position: absolute;
+	top: 950px;
+	left: 40px;
+	z-index: 9;
+}
+
+.l8{
+	position: absolute;
+	top: 950px;
+	left: 400px;
+	z-index: 9;
+}
+
+.l9{
+	position: absolute;
+	top: 950px;
+	left: 763px;
+	z-index: 9;
+}
+
+.q{
+	position: absolute;
+	top: 175px;
+	left: 14px;
+
+	animation-name: proko;
+	animation-duration: 1s;
+	animation-iteration-count: infinite;
+}
+
+.w{
+	position: absolute;
+	top: 165px;
+	left: 409px;
+
+	animation-name: prokoo;
+	animation-duration: 2.3s;
+	animation-iteration-count: infinite;
+}
+
+.e{
+	position: absolute;
+	top: 190px;
+	left: 800px;
+	z-index: 999;
+}
+
+		.img-e>img{
+			display: block;
+			z-index: 999;
+		}
+
+		.e>img:last-child{
+			display: none;
+		}
+
+		.e:hover>img:last-child{
+			display: block;
+		}
+
+		.e:hover>img:first-child{
+			display: none;
+		}
+
+.r{
+	position: absolute;
+	top: 600px;
+	left: 75px;
+}
+
+.t{
+	position: absolute;
+	top: 583px;
+	left: 399px;
+
+	animation-name: prokooo;
+	animation-duration: 1.3s;
+	animation-iteration-count: infinite;
+}
+
+.y{
+	position: absolute;
+	top: 500px;
+	left: 780px;
+
+	animation-name: prokoooo;
+	animation-duration: 1.8s;
+	animation-iteration-count: infinite;
+}
+
+.a{
+	position: absolute;
+	top: 0px;
+	right: -70px;
+	z-index: 999;
+}
+
+.s{
+	position: absolute;
+	right: 100px;
+	top: 40px;
+	z-index: 999;
+}
+
+.ck1{position: absolute;
+	top: 585px;
+	left: 73px;
+	z-index: 999;
+}
+		.img-ck1>img{
+			display: block;
+			z-index: 999;
+		}
+
+		.ck1>img:last-child{
+			display: none;
+		}
+
+		.ck1:hover>img:last-child{
+			display: block;
+		}
+
+		.ck1:hover>img:first-child{
+			display: none;
+		}
+
+.ck2{
+	position: absolute;
+	top: 185px;
+	left: 73px;
+	z-index: 999;
+}
+
+		.img-ck2>img{
+			display: block;
+			z-index: 999;
+		}
+
+		.ck2>img:last-child{
+			display: none;
+		}
+
+		.ck2:hover>img:last-child{
+			display: block;
+		}
+
+		.ck2:hover>img:first-child{
+			display: none;
+		}
+
+.ck3{
+	position: absolute;
+	top: 185px;
+	left: 433px;
+	z-index: 999;
+}
+
+		.img-ck3>img{
+			display: block;
+			z-index: 999;
+		}
+
+		.ck3>img:last-child{
+			display: none;
+		}
+
+		.ck3:hover>img:last-child{
+			display: block;
+		}
+
+		.ck3:hover>img:first-child{
+			display: none;
+		}
+
+
+.ck5{
+	position: absolute;
+	top: 585px;
+	left: 433px;
+	z-index: 999;
+}
+
+		.img-ck5>img{
+			display: block;
+			z-index: 999;
+		}
+
+		.ck5>img:last-child{
+			display: none;
+		}
+
+		.ck5:hover>img:last-child{
+			display: block;
+		}
+
+		.ck5:hover>img:first-child{
+			display: none;
+		}
+
+.ck6{
+	position: absolute;
+	top: 585px;
+	left: 796px;
+	z-index: 999;
+}
+
+		.img-ck6>img{
+			display: block;
+			z-index: 999;
+		}
+
+		.ck6>img:last-child{
+			display: none;
+		}
+
+		.ck6:hover>img:last-child{
+			display: block;
+		}
+
+		.ck6:hover>img:first-child{
+			display: none;
+		}
+
+.q1{
+	position: absolute;
+	top: 980px;
+	left: 75px;
+	z-index: 999;
+}
+
+		.img-q1>img{
+			display: block;
+			z-index: 999;
+		}
+
+		.q1>img:last-child{
+			display: none;
+		}
+
+		.q1:hover>img:last-child{
+			display: block;
+		}
+
+		.q1:hover>img:first-child{
+			display: none;
+		}
+
+.e1{
+	position: absolute;
+	top: 987px;
+	left: 798px;
+	z-index: 999;
+}
+
+		.img-e1>img{
+			display: block;
+			z-index: 999;
+		}
+
+		.e1>img:last-child{
+			display: none;
+		}
+
+		.e1:hover>img:last-child{
+			display: block;
+		}
+
+		.e1:hover>img:first-child{
+			display: none;
+		}
+
+.w1{
+	position: absolute;
+	top: 987px;
+	left: 435px;
+	z-index: 999;
+}
+
+		.img-w1>img{
+			display: block;
+			z-index: 999;
+		}
+
+		.w1>img:last-child{
+			display: none;
+		}
+
+		.w1:hover>img:last-child{
+			display: block;
+		}
+
+		.w1:hover>img:first-child{
+			display: none;
+		}
+
+.line{
+	position: absolute;
+	top: 0px;
+	left: -1200px;
+	z-index: 999;
+}
+
+.line1{
+	position: absolute;
+	top: 0px;
+	left: 550px;
+	z-index: 999;
+}
+
+.car{
+	position: absolute;
+	top: 0px;
+	left: 1550px;
+	z-index: 999;
+
+	animation-name: prokooooo;
+	animation-duration: 10s;
+	animation-iteration-count: infinite;
+}
+
+
+body{
+	background-color: #080404;
+}
+
